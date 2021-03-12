@@ -3,6 +3,7 @@
 "name": "cels",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
-{ "type": "Feature", "properties": { "line_type": "transit", "spine": "true" }, "geometry": { "type": "LineString", "coordinates": [ [ 25,2666766289936, 57,3150731168987 ], [ 25,2666723883091, 57,3150716481224 ], [ 25,2666995214155, 57,3151295668011 ] ] } },
+
+{ "type": "Feature", "properties": { "line_type": "trail", "spine": "false" }, "geometry": { "type": "LineString", "coordinates": [ [ 25.2666922478746, 57.3131718980501 ], [ 25.2671871350806, 57.3148905655794] ] } },
 ]
 }
