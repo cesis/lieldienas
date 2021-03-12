@@ -3,21 +3,7 @@
 "name": "trail",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
-{ "type": "Feature", "properties": { "line_type": "trail", "spine": "true" }, "geometry": { "type": "LineString", "coordinates": [ [ -81.01234, 29.19879 ], [ -81.01053, 29.1951 ], [ -81.01144, 29.19472 ] ] } },
-{ "type": "Feature", "properties": { "line_type": "trail", "spine": "true" }, "geometry": { "type": "LineString", "coordinates": [ [ -74.75969, 40.226 ], [ -74.75787, 40.22909 ] ] } },
-{ "type": "Feature", "properties": { "line_type": "trail", "spine": "true" }, "geometry": { "type": "LineString", "coordinates": [ [ -74.76911, 40.22317 ], [ -74.77144, 40.2233 ], [ -74.77214, 40.22292 ] ] } },
-{ "type": "Feature", "properties": { "line_type": "trail", "spine": "true" }, "geometry": { "type": "LineString", "coordinates": [ [ -74.76776, 40.22369 ], [ -74.76698, 40.22443 ], [ -74.7652, 40.22442 ] ] } },
-{ "type": "Feature", "properties": { "line_type": "trail", "spine": "true" }, "geometry": { "type": "LineString", "coordinates": [ [ -74.76911, 40.22317 ], [ -74.76824, 40.22372 ] ] } },
-{ "type": "Feature", "properties": { "line_type": "trail", "spine": "true" }, "geometry": { "type": "LineString", "coordinates": [ [ -74.76448, 40.22434 ], [ -74.76283, 40.22463 ] ] } },
-{ "type": "Feature", "properties": { "line_type": "trail", "spine": "true" }, "geometry": { "type": "LineString", "coordinates": [ [ -74.74135, 40.23826 ], [ -74.74395, 40.23692 ], [ -74.75175, 40.23154 ], [ -74.75569, 40.22874 ], [ -74.7569, 40.22811 ], [ -74.75863, 40.22639 ], [ -74.75969, 40.226 ] ] } },
-{ "type": "Feature", "properties": { "line_type": "trail", "spine": "true" }, "geometry": { "type": "LineString", "coordinates": [ [ -72.6772, 41.76449 ], [ -72.67649, 41.76438 ] ] } },
-{ "type": "Feature", "properties": { "line_type": "trail", "spine": "true" }, "geometry": { "type": "LineString", "coordinates": [ [ -74.72886, 40.24888 ], [ -74.72515, 40.24995 ], [ -74.72253, 40.25129 ], [ -74.72148, 40.25202 ], [ -74.71915, 40.25443 ], [ -74.71812, 40.2561 ], [ -74.71736, 40.25853 ], [ -74.71585, 40.26098 ], [ -74.71499, 40.26355 ], [ -74.71375, 40.26497 ], [ -74.71062, 40.26748 ] ] } },
-{ "type": "Feature", "properties": { "line_type": "trail", "spine": "true" }, "geometry": { "type": "LineString", "coordinates": [ [ -74.71036, 40.26727 ], [ -74.70531, 40.2713 ], [ -74.7041, 40.27257 ], [ -74.70306, 40.27422 ] ] } },
-{ "type": "Feature", "properties": { "line_type": "trail", "spine": "true" }, "geometry": { "type": "LineString", "coordinates": [ [ -74.70038, 40.28037 ], [ -74.69942, 40.28165 ], [ -74.69874, 40.28321 ], [ -74.6908, 40.29924 ], [ -74.68972, 40.3013 ], [ -74.68838, 40.30248 ] ] } },
-{ "type": "Feature", "properties": { "line_type": "trail", "spine": "true" }, "geometry": { "type": "LineString", "coordinates": [ [ -74.68838, 40.30248 ], [ -74.68809, 40.30293 ], [ -74.68477, 40.30501 ] ] } },
-{ "type": "Feature", "properties": { "line_type": "trail", "spine": "true" }, "geometry": { "type": "LineString", "coordinates": [ [ -80.92585, 28.98887 ], [ -80.92715, 28.99312 ] ] } },
-{ "type": "Feature", "properties": { "line_type": "trail", "spine": "true" }, "geometry": { "type": "LineString", "coordinates": [ [ -74.68477, 40.30501 ], [ -74.68416, 40.30533 ], [ -74.67735, 40.30976 ], [ -74.6766, 40.31046 ], [ -74.67264, 40.31533 ], [ -74.67049, 40.31696 ], [ -74.66313, 40.32081 ], [ -74.66218, 40.32142 ], [ -74.65647, 40.32594 ], [ -74.65488, 40.3276 ], [ -74.65253, 40.33184 ] ] } },
-{ "type": "Feature", "properties": { "line_type": "trail", "spine": "true" }, "geometry": { "type": "LineString", "coordinates": [ [ -74.6478, 40.33917 ], [ -74.64523, 40.34107 ], [ -74.64416, 40.34157 ], [ -74.63727, 40.34226 ] ] } },
+
 { "type": "Feature", "properties": { "line_type": "trail", "spine": "true" }, "geometry": { "type": "LineString", "coordinates": [ [ -74.63727, 40.34226 ], [ -74.63312, 40.34259 ], [ -74.63002, 40.34326 ], [ -74.62808, 40.34453 ], [ -74.6274, 40.34568 ], [ -74.62487, 40.35732 ], [ -74.62474, 40.36016 ], [ -74.62381, 40.36393 ], [ -74.62328, 40.36536 ], [ -74.61891, 40.37227 ], [ -74.61858, 40.37333 ], [ -74.61903, 40.37445 ] ] } },
 
 }
