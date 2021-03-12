@@ -1,6 +1,6 @@
 {
 "type": "FeatureCollection",
-"name": "transit",
+"name": "cels",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
 { "type": "Feature", "properties": { "line_type": "transit", "spine": "true" }, "geometry": { "type": "LineString", "coordinates": [ [ -74.01301, 40.71818 ], [ -74.01666, 40.71863 ], [ -74.01731, 40.71513 ] ] } },
